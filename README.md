@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0392-is-subsequence) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0392-is-subsequence) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/1768-merge-strings-alternately) |
 ## Math
@@ -63,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0605-can-place-flowers) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
