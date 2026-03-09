@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0007-reverse-integer) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Greedy
 |  |
