@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0035-search-insert-position) |
 | [0436-find-right-interval](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0436-find-right-interval) |
+| [0605-can-place-flowers](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0605-can-place-flowers) |
 | [0704-binary-search](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -55,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
