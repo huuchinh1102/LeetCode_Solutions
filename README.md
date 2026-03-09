@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0035-search-insert-position) |
+| [0283-move-zeroes](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0283-move-zeroes) |
 | [0436-find-right-interval](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0436-find-right-interval) |
 | [0605-can-place-flowers](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0605-can-place-flowers) |
 | [0704-binary-search](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0704-binary-search) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0283-move-zeroes) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
