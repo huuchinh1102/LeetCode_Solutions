@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0374-guess-number-higher-or-lower) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0029-divide-two-integers) |
 | [0060-permutation-sequence](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0060-permutation-sequence) |
+| [0069-sqrtx](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0069-sqrtx) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## Greedy
