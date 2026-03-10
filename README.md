@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0392-is-subsequence](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0392-is-subsequence) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 ## Interactive
 |  |
 | ------- |
@@ -127,4 +128,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 <!---LeetCode Topics End-->
