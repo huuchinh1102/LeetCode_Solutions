@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0035-search-insert-position) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0001-two-sum) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Two Pointers
