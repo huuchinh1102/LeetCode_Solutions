@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1679-max-number-of-k-sum-pairs](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## String
 |  |
 | ------- |
@@ -84,4 +87,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0060-permutation-sequence](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0060-permutation-sequence) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Simulation
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Ordered Set
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
