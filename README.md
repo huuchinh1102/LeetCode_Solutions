@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0392-is-subsequence) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 ## Interactive
 |  |
 | ------- |
@@ -122,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0029-divide-two-integers) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+## Prefix Sum
+|  |
+| ------- |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 <!---LeetCode Topics End-->
