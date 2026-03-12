@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0875-koko-eating-bananas) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Sorting
 |  |
 | ------- |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0605-can-place-flowers) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -161,4 +163,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+## Union-Find
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Graph Theory
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 <!---LeetCode Topics End-->
