@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0035-search-insert-position) |
+| [0088-merge-sorted-array](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0162-find-peak-element) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0436-find-right-interval](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0436-find-right-interval) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0015-3sum) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0088-merge-sorted-array](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0392-is-subsequence) |
