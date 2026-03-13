@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1929-concatenation-of-array](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/1929-concatenation-of-array) |
+| [1980-find-unique-binary-string](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/1980-find-unique-binary-string) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Binary Search
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0001-two-sum) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1980-find-unique-binary-string](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/1980-find-unique-binary-string) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Two Pointers
 |  |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/1768-merge-strings-alternately) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [1980-find-unique-binary-string](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/1980-find-unique-binary-string) |
 ## Math
 |  |
 | ------- |
@@ -206,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0509-fibonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [1980-find-unique-binary-string](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/1980-find-unique-binary-string) |
 <!---LeetCode Topics End-->
