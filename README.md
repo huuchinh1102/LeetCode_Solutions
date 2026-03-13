@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0206-reverse-linked-list](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0206-reverse-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## String
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0060-permutation-sequence](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0060-permutation-sequence) |
+| [0206-reverse-linked-list](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0206-reverse-linked-list) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Heap (Priority Queue)
 |  |
