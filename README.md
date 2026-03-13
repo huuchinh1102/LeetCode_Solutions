@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0029-divide-two-integers) |
 | [0060-permutation-sequence](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0060-permutation-sequence) |
 | [0069-sqrtx](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0069-sqrtx) |
