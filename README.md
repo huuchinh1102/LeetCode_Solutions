@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0875-koko-eating-bananas) |
+| [1004-max-consecutive-ones-iii](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/1470-shuffle-the-array) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0875-koko-eating-bananas) |
+| [1004-max-consecutive-ones-iii](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2906-construct-product-matrix](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -251,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Union-Find
