@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0136-single-number) |
 | [0338-counting-bits](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0338-counting-bits) |
 | [1009-complement-of-base-10-integer](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/1009-complement-of-base-10-integer) |
+| [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## Prefix Sum
