@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0162-find-peak-element) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0029-divide-two-integers) |
+| [0136-single-number](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0136-single-number) |
 | [0338-counting-bits](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0338-counting-bits) |
 | [1009-complement-of-base-10-integer](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/1009-complement-of-base-10-integer) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
