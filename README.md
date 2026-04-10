@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0162-find-peak-element) |
+| [0238-product-of-array-except-self](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0283-move-zeroes) |
 | [0436-find-right-interval](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0436-find-right-interval) |
 | [0485-max-consecutive-ones](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0485-max-consecutive-ones) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
