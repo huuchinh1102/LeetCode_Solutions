@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0392-is-subsequence) |
 | [0657-robot-return-to-origin](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0657-robot-return-to-origin) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0509-fibonacci-number) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
