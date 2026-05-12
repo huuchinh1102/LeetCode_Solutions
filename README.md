@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0162-find-peak-element) |
 | [0238-product-of-array-except-self](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0283-move-zeroes) |
+| [0334-increasing-triplet-subsequence](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0436-find-right-interval](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0436-find-right-interval) |
 | [0485-max-consecutive-ones](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0605-can-place-flowers) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0011-container-with-most-water) |
+| [0334-increasing-triplet-subsequence](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0605-can-place-flowers) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
