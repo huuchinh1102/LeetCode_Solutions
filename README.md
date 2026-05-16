@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2573-find-the-string-with-lcp](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/2573-find-the-string-with-lcp) |
 | [2751-robot-collisions](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/2751-robot-collisions) |
+| [2784-check-if-array-is-good](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/2784-check-if-array-is-good) |
 | [2906-construct-product-matrix](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2463-minimum-total-distance-traveled](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2751-robot-collisions](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/2751-robot-collisions) |
+| [2784-check-if-array-is-good](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Matrix
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-walking-robot-simulation](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0874-walking-robot-simulation) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1980-find-unique-binary-string](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/1980-find-unique-binary-string) |
+| [2784-check-if-array-is-good](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3488-closest-equal-element-queries](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/3488-closest-equal-element-queries) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
