@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0645-set-mismatch](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0436-find-right-interval](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0436-find-right-interval) |
+| [0645-set-mismatch](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0645-set-mismatch) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0013-roman-to-integer) |
+| [0645-set-mismatch](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0645-set-mismatch) |
 | [0874-walking-robot-simulation](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0874-walking-robot-simulation) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1980-find-unique-binary-string](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/1980-find-unique-binary-string) |
@@ -297,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0136-single-number) |
 | [0338-counting-bits](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0338-counting-bits) |
+| [0645-set-mismatch](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0645-set-mismatch) |
 | [1009-complement-of-base-10-integer](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/1009-complement-of-base-10-integer) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
