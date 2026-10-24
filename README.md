@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1980-find-unique-binary-string](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/1980-find-unique-binary-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/2075-decode-the-slanted-ciphertext) |
+| [2409-count-days-spent-together](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/2409-count-days-spent-together) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2573-find-the-string-with-lcp](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/2573-find-the-string-with-lcp) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1622-fancy-sequence](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2409-count-days-spent-together](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/2409-count-days-spent-together) |
 | [2485-find-the-pivot-integer](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/2485-find-the-pivot-integer) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
