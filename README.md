@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-walking-robot-simulation](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0874-walking-robot-simulation) |
 | [0875-koko-eating-bananas](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1254-number-of-closed-islands](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/1254-number-of-closed-islands) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/1254-number-of-closed-islands) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/1254-number-of-closed-islands) |
 | [2573-find-the-string-with-lcp](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/2573-find-the-string-with-lcp) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Graph Theory
@@ -409,4 +412,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0175-combine-two-tables) |
+## Depth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/1254-number-of-closed-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
