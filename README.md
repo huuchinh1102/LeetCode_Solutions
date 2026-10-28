@@ -425,4 +425,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
