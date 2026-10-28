@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3689-maximum-total-subarray-value-i](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Binary Search
 |  |
 | ------- |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3548-equal-sum-grid-partition-ii](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3643-flip-square-submatrix-vertically](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/3643-flip-square-submatrix-vertically) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Interactive
 |  |
 | ------- |
@@ -324,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Prefix Sum
 |  |
 | ------- |
