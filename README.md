@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3689-maximum-total-subarray-value-i](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/3689-maximum-total-subarray-value-i) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2485-find-the-pivot-integer](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/2485-find-the-pivot-integer) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/3783-mirror-distance-of-an-integer) |
 ## Greedy
