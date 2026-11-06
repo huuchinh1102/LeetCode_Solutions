@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2463-minimum-total-distance-traveled](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2573-find-the-string-with-lcp](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/2573-find-the-string-with-lcp) |
+| [2747-count-zero-request-servers](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/2747-count-zero-request-servers) |
 | [2751-robot-collisions](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/2751-robot-collisions) |
 | [2784-check-if-array-is-good](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/2784-check-if-array-is-good) |
 | [2906-construct-product-matrix](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/2906-construct-product-matrix) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2463-minimum-total-distance-traveled](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/2463-minimum-total-distance-traveled) |
+| [2747-count-zero-request-servers](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/2747-count-zero-request-servers) |
 | [2751-robot-collisions](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/2751-robot-collisions) |
 | [2784-check-if-array-is-good](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1980-find-unique-binary-string](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/1980-find-unique-binary-string) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2747-count-zero-request-servers](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/2747-count-zero-request-servers) |
 | [2784-check-if-array-is-good](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -367,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [2747-count-zero-request-servers](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/2747-count-zero-request-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Union-Find
 |  |
