@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1254-number-of-closed-islands](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/1267-count-servers-that-communicate) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/1267-count-servers-that-communicate) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -384,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/1267-count-servers-that-communicate) |
 | [2573-find-the-string-with-lcp](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/2573-find-the-string-with-lcp) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -443,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/1267-count-servers-that-communicate) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Database
 |  |
@@ -456,11 +460,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Longest Increasing Subsequence
 |  |
