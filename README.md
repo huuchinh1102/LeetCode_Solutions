@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/3783-mirror-distance-of-an-integer) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Greedy
 |  |
 | ------- |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3474-lexicographically-smallest-generated-string](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3689-maximum-total-subarray-value-i](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/3689-maximum-total-subarray-value-i) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Dynamic Programming
 |  |
 | ------- |
