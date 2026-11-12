@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0035-search-insert-position) |
+| [0045-jump-game-ii](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0045-jump-game-ii) |
 | [0088-merge-sorted-array](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0045-jump-game-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0605-can-place-flowers) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0045-jump-game-ii) |
 | [0338-counting-bits](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0509-fibonacci-number) |
