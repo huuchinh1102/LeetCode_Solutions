@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2463-minimum-total-distance-traveled](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2573-find-the-string-with-lcp](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/2573-find-the-string-with-lcp) |
 | [2747-count-zero-request-servers](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/2747-count-zero-request-servers) |
 | [2751-robot-collisions](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/2751-robot-collisions) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2463-minimum-total-distance-traveled](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/2463-minimum-total-distance-traveled) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/2747-count-zero-request-servers) |
 | [2751-robot-collisions](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/2751-robot-collisions) |
 | [2784-check-if-array-is-good](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/2784-check-if-array-is-good) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2573-find-the-string-with-lcp](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/2573-find-the-string-with-lcp) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/3474-lexicographically-smallest-generated-string) |
