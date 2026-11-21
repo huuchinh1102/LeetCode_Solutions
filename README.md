@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3331-find-subtree-sizes-after-changes](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3488-closest-equal-element-queries](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/3488-closest-equal-element-queries) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -409,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2747-count-zero-request-servers](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/2747-count-zero-request-servers) |
 | [3364-minimum-positive-sum-subarray](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/3364-minimum-positive-sum-subarray) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Union-Find
 |  |
@@ -444,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1622-fancy-sequence](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/1622-fancy-sequence) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Enumeration
 |  |
 | ------- |
@@ -458,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2751-robot-collisions](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/2751-robot-collisions) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -502,4 +506,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/0334-increasing-triplet-subsequence) |
+## Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Monotonic Stack
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Monotonic Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 <!---LeetCode Topics End-->
