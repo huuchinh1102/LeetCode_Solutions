@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2747-count-zero-request-servers](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/2747-count-zero-request-servers) |
 | [2784-check-if-array-is-good](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3488-closest-equal-element-queries](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/3488-closest-equal-element-queries) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Math
 |  |
@@ -464,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2196-create-binary-tree-from-descriptions](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/2196-create-binary-tree-from-descriptions) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Binary Tree
 |  |
 | ------- |
@@ -486,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/1267-count-servers-that-communicate) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/huuchinh1102/LeetCode_Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
